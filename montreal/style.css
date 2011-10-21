@@ -1,0 +1,148 @@
+/**
+ * Montreal Theme for Elefant CMS
+ * http://www.elefantcms.com/
+ *
+ * Made during a trip to Montreal, so I named it after
+ * this beautiful city.
+ *
+ * Based on the Montreal colour palette:
+ * http://www.colourlovers.com/palette/64018/Montreal
+ */
+
+body {
+	background: #fff;
+	color: #000;
+	font-size: 81.25%; /* 13px */
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 1.5em;
+	border-top: 32px solid #383833;
+}
+
+h1, h2, h3 {
+	color: #39565C;
+	color: #B40406;
+	border-top: 2px solid #383833;
+}
+
+h1 { font-size: 1.3em; }
+h2 { font-size: 1.16em; }
+h3 { font-size: 1em; }
+
+a {
+	color: #39565C;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #340410;
+}
+
+ul {
+	list-style-type: square;
+}
+
+#wrapper {
+	margin: auto;
+	margin-top: 0px;
+}
+
+#head {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+#head h1 {
+	text-align: left;
+	font-size: 1.5em;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	color: #383833;
+	text-transform: uppercase;
+	background: url(elefant_icon.png);
+	background-repeat: no-repeat;
+	background-position: 0 1px;
+	padding-left: 35px;
+	padding-bottom: 2px;
+}
+
+#slogan {
+	float: right;
+	color: #39565C;
+	margin-top: -20px;
+	border-bottom: 2px solid #DBE6E2;
+}
+
+#menu {
+	margin-top: -32px;
+}
+
+	#menu ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		float: right;
+		margin-right: -10px;
+	}
+
+	#menu ul li {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		display: inline;
+	}
+
+	#menu a {
+		float: left;
+		color: #F0EEEE;
+		display: block;
+		margin-left: 1px;
+		text-decoration: none;
+		padding: 7px 10px 6px 10px;
+		text-transform: uppercase;
+		font-size: 0.85em;
+	}
+
+	#menu a:hover {
+		text-decoration: underline;
+		color: #DBE6E2;
+	}
+
+#body {
+	margin-top: 25px;
+}
+
+#sidebar {
+	margin-top: 25px;
+	padding-left: 30px;
+	width: 270px;
+}
+
+#footer {
+	margin-top: 30px;
+	margin-top: 10px;
+	padding-top: 3px;
+	padding-bottom: 10px;
+	border-top: 1px dotted #340410;
+	color: #888;
+}
+
+#footer-menu {
+	text-align: left;
+}
+
+	#footer-menu ul {
+		list-style-type: none;
+		margin-left: 0;
+		padding-left: 0;
+	}
+	
+		#footer-menu ul li {
+			list-style-type: none;
+			margin-left: 0;
+			padding-left: 0;
+		}
+
+#footer-credit {
+	text-align: right;
+}
