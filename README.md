@@ -20,8 +20,8 @@ Photo in homepage slideshow by [dzpixel](http://www.flickr.com/photos/dzpixel/44
 
 Homepage:
 
-![](http://github.com/jbroadway/montreal/raw/master/montreal/screenshot-index.png)
+![](http://github.com/jbroadway/montreal/raw/master/screenshot-index.png)
 
 Inner pages:
 
-![](http://github.com/jbroadway/montreal/raw/master/montreal/screenshot-inner.png)
+![](http://github.com/jbroadway/montreal/raw/master/screenshot-inner.png)
